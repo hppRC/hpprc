@@ -1,5 +1,12 @@
 [![hppRC's github stats](https://github-readme-stats.vercel.app/api?username=hppRC&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=hppRC&repo=hppRC.github.io" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=hppRC&repo=kuon" />
+</a>
+
 <!--
 **hppRC/hpprc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
