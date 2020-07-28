@@ -1,12 +1,12 @@
-[![hppRC's github stats](https://github-readme-stats.vercel.app/api?username=hppRC&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![hppRC's github stats](https://github-readme-stats.vercel.app/api?username=hppRC&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hppRC&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hppRC&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=hppRC&repo=hppRC.github.io&theme=onedark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=hppRC&repo=hppRC.github.io&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=hppRC&repo=kuon&theme=onedark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=hppRC&repo=kuon&theme=radical" />
 </a>
 
 <!--
